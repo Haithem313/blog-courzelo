@@ -1,0 +1,6 @@
+com\courzelo\courzelo_core\entity\Comment.class
+com\courzelo\courzelo_core\entity\Post.class
+com\courzelo\courzelo_core\entity\DatabaseSequence.class
+com\courzelo\courzelo_core\repository\CommentRepository.class
+com\courzelo\courzelo_core\BlogApplication.class
+com\courzelo\courzelo_core\repository\PostRepository.class
